@@ -71,6 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ###  Link :
 - https://whimsical.com/
+- https://www.figma.com/
+- https://discord.com/channels/327861810768117763/798906526709579776
 
 ### Comandos:
 - yarn create react-app moveit --template=typescript
